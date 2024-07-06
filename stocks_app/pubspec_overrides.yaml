@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: stocks_core,stocks_design_system
+dependency_overrides:
+  stocks_core:
+    path: ../packages/stocks_core
+  stocks_design_system:
+    path: ../packages/stocks_design_system

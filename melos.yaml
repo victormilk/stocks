@@ -1,0 +1,5 @@
+name: stocks
+
+packages:
+  - stocks_app
+  - packages/**
